@@ -54,7 +54,7 @@ menu:
 #  - title:             Projects
 #    url:               /projects/
   - title:             Résumé
-    url:               /resume/
+    url:               http://aurashoval.shinnar.com/resume.pdf?attredirects=0
   - title:              Hospital Website
     url:                https://www.rwjbh.org/doctors/hannah-a-shoval-md/
 #  - title:             Documentation
