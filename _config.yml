@@ -51,10 +51,10 @@ author:
 menu:
 #  - title:             Blog
 #    url:               /blog/
-#  - title:             Projects
-#    url:               /projects/
+  - title:             Recognition
+    url:               /recognition/
   - title:             Résumé
-    url:               http://aurashoval.shinnar.com/resume.pdf?attredirects=0
+    url:               /assets/resume.pdf
   - title:              Hospital Website
     url:                https://www.rwjbh.org/doctors/hannah-a-shoval-md/
 #  - title:             Documentation
@@ -151,11 +151,11 @@ defaults:
   #   values:
   #     seo:
   #       type:          WebPage
-  # - scope:
-  #     type:            featured_categories
-  #   values:
-  #     seo:
-  #       type:          WebPage
+  - scope:
+      type:            featured_categories
+    values:
+      seo:
+        type:          WebPage
   # - scope:
   #     type:            featured_tags
   #   values:
@@ -288,7 +288,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /blog/:name/
+    permalink:         /:name/
     output:            true
 
   featured_tags:
