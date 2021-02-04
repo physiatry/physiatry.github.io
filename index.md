@@ -1,47 +1,33 @@
 ---
 layout: page
-title: Thank You!
+title: Dr. (Hannah) Aura Shoval
 sitemap: false
+cover: true
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+I am a pediatric rehabilitation medicine physician (Physiatry / PM&R). I currently work at Children's Specialized Hospital at these locations:
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+# Practice Locations
+- [Clifton - Outpatient Center](https://www.childrens-specialized.org/locations-directory/clifton): 
+  [1135 Broad Street, Suite #2, 3rd floor](https://maps.google.com/?q=1135+Broad+Street,+Suite+%232,+3rd+floor&entry=gmail&source=g)
+  Clifton, NJ 07013
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+- [Jersey City - Outpatient Center](https://www.childrens-specialized.org/locations-directory/jersey-city-outpatient): 
+  [1825 John F Kennedy Boulevard](https://goo.gl/maps/mPgZXFsocU3TgUba7)
+  Jersey City, NJ 07305
+ 
+- [Newark - Outpatient Center](https://www.childrens-specialized.org/locations-directory/newark): 
+  [182 Lyons Ave](https://goo.gl/maps/gh71cTG6A9G6t9Xc8)
+  Newark, NJ 07112
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+# Appointments
+Appointments can be scheduled at:
+- Phone: (973) 365-3071 
+- Fax: (973) 365-3086
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
+My [resume](/resume/) is available [here](/resume/)
 
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
 
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+# Brief Bio
+
+Dr. (Hannah) Aura Shoval is a board certified Pediatric Rehabilitation physician at Children’s Specialized Hospital. She completed her medical studies at Tufts University. She did her residency in physical medicine and rehabilitation at New York Presbyterian Hospital where she served as chief resident. She then completed a fellowship in pediatric rehabilitation at Columbia Medical Center/Blythedale Children’s Hospital’s combined program. Dr. Shoval has done research in botox and alcohol injections for spasticity management, drooling, autism,  sleep medicine and cardiopulmonary effects of exercise. She has lectured nationally and internationally on these topics.  Her clinical interests include spasticity management, drooling, gait abnormalities, sports medicine, musculoskeletal ultrasound, and dance/performing arts medicine. In her spare time, she enjoys doing gymnastics with her three children, and competing with her husband in ballroom dance competitions.

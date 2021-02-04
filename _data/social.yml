@@ -206,3 +206,6 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+csh:
+  name: Children's Specialized Hospital
+#  icon: https://www.rwjbh.org/images/hospital-logos/logo-childrens-specialized-hospital.png
