@@ -3,14 +3,14 @@
 layout: grid
 
 # The title of the tag's page.
-title: Recognition
+title: Certifications
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: recognition
+slug: certifications
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Awards and articles recognizing some of Dr. Shoval's achievements.
+  Certifications that Dr. Shoval has accumulated.
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true

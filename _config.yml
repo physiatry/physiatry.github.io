@@ -51,8 +51,12 @@ author:
 menu:
 #  - title:             Blog
 #    url:               /blog/
-  - title:             Recognition
-    url:               /recognition/
+  - title:             Certifications
+    url:               /certifications/
+  - title:             Awards
+    url:               /awards/
+  - title:             In the News
+    url:               /news/
   - title:             Résumé
     url:               /assets/resume.pdf
   - title:              Hospital Website
