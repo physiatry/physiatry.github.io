@@ -5,7 +5,7 @@ description: >
   Dr. Shoval was the inaugural fellow for NewYork-Presbyterian Hospital's accredited Pediatric Rehabilitation Medicine Fellowship
 sitemap: false
 image:
-  path: /assets/img/awards/NYPAdvances_Rehabilitation_June22-pic.jpg
+  path: /assets/img/news/NYPAdvances_Rehabilitation_June22-pic.jpg
 ---
 
 Page 3 of the [Spring 2015 NYP newsletter, available here](/assets/img/awards/NYPAdvances_Rehabilitation_June22.pdf) highlights the newly accredited Pediatric Rehabilitation Medicine Fellowship program of NewYork-Presbyterian Hospital.
