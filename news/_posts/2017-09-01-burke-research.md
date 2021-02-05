@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NYP Newsletter
+title: Resident Research presented at AACPDM
 description: >
   Research Highlights at Burke-Blythedale
 sitemap: false
