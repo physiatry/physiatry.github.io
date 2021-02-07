@@ -5,7 +5,7 @@ description: >
   A patient story
 sitemap: false
 image:
-  path: /assets/img/news/eduardo-patino.jpg
+  path: /assets/img/news/eduardo-patino-faces.jpg
 ---
 
 > When Diana found Dr. Shoval ... They connected right away, and the Patino family felt comfortable under her guidance and care. 
