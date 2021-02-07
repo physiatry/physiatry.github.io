@@ -25,7 +25,7 @@ Appointments can be scheduled at:
 - Phone: (973) 365-3071 
 - Fax: (973) 365-3086
 
-My [resume](http://aurashoval.shinnar.com/resume.pdf?attredirects=0) is available [here](http://aurashoval.shinnar.com/resume.pdf?attredirects=0)
+My [resume](/assets/Resume.pdf) is available [here](/assets/Resume.pdf)
 
 
 # Brief Bio

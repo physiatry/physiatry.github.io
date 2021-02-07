@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rehab Ball
+title: Rehab Bowl
 description: >
   Go Team!
 sitemap: false
