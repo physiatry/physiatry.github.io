@@ -59,8 +59,8 @@ menu:
     url:               /news/
   - title:             Résumé
     url:               /assets/resume.pdf
-  - title:              Hospital Website
-    url:                https://www.rwjbh.org/doctors/hannah-a-shoval-md/
+#  - title:              Hospital Website
+#    url:                https://www.rwjbh.org/doctors/hannah-a-shoval-md/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
