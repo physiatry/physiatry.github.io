@@ -10,6 +10,7 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 {:toc .large-only}
 
 ## What patients say about Dr. Shoval
+> Thank you  😊🙏🏼  You’re such a blessing. I hope you have a wonderful night and we’ll see you soon for Botox. 
 
 > Thank you for taking such good care of my daughter. She just got up! In getting her dressed I immediately saw relief in her 
   thumbs, arms and shoulders. Her back seemed more relaxed and she said she had no pain in the hip or any other part of her  
