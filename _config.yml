@@ -57,8 +57,8 @@ menu:
     url:               /awards/
   - title:             In the News
     url:               /news/
-  # - title:             What People Say
-  #   url:               /quotes/
+  - title:             What People Say
+    url:               /quotes/
   - title:             Résumé
     url:               /assets/resume.pdf
 #  - title:              Hospital Website

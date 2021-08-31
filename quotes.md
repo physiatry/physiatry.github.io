@@ -66,7 +66,7 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 
 ## What colleagues say about Dr. Shoval
 
-> you were right that _redacted_.Thank you very much.
+> ... which is wonderful because Dr. Aura Shoval is oiur physiatrist there.  Dr. Shoval is one of the most amazing, bright, thorough, and compassionate physicians I know.  I would highly recommend that your friend's child see Dr. Shoval.
 
 > Thank you again so much Dr. Shoval!  I wanted to tell you specifically that I always really appreciate your lectures because 
   you are able to get people to participate! There was more participation during your lecture yesterday than I think any other virtual lecture we have had since Covid started and I think it makes it a much more enjoyable experience for everyone. So thank you! "thank you so much! Especially for doing it in the middle of your conference. We really enjoyed the lecture yesterday!
