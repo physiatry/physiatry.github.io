@@ -17,4 +17,4 @@ As a result of attending a joint program between affiliated institutions, Dr. Sh
 
 <img align="right" alt="Cornell Fellowship Diploma" src="/assets/img/certifications/diploma-fellowship-cornell.png" />
 
-<img align="right" alt="Cornell Fellowship Diploma" src="/assets/img/certifications/diploma-fellowship-columbia.png" />
+<img align="right" alt="Columbia Fellowship Diploma" src="/assets/img/certifications/diploma-fellowship-columbia.png" />
