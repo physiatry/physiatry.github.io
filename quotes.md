@@ -74,6 +74,22 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 > Thank you again for taking the time out of your schedule to lecture on Wednesday!  The the lecture interactive and engaging. 
   I know this is not easy to do, especially on a teleconferencing platform. In addition to the content, you brought so much energy to the presentation. Please let me know if there are any other topics you are interested in lecturing on in the future. I will make a note of it.
 
+### Therapists
+
+> I was super impressed with X when I saw her last week. Improved sitting balance on 6" box, her hands and arms are more relaxed and she holds her weight through her arms better in quadruped, i can guide her through quadruped to squat to stand opening the hips up into abduction and external rotation....less scissoring and flatter feet in standing. Does not seem to be sore in the legs (and as might be expected no skin reaction at injection sites). Really nice. Thanks!
+
+> Thanks for getting back in touch with me Aura. :-)  Really, you are quite a few bars higher than most physicians with regards to keeping  correspondence. It is most appreciated by me, and I think more importantly by the families, who have such high praises for you! 
+> I'd love your insights on BTX, baclofen, ETOH, SDR and anything else to manage spasticity and NM impairments
+
+
+> HI Dr. Shoval: 
+> First I wanted to say thank you x1000. X received her equipment. If it wasn't for you she never would have received it.  I only had a chance to see her in the hi lo chair which is well fitted and she is at this point tolerating well. 
+> Thank you Dr. Shoval!
+> What a great conversation and team work going on here, I love it!
+> Miss her much. Glad she has a great team between you all!
+> I'm very happy that they are coming to see you.  Kindly let me know your thoughts.  
+> Warm Regards,
+
 ## Some quotes from around the world
 
 > I was looking into appropriate management and i came to one of your article in Americal journal of physical medicine and 
@@ -81,5 +97,4 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 
 > Thank you so much for your prompt response. It was definitely helpful and will surely add a lot before 
   i finally decide for botox here in poland.  
-
 
