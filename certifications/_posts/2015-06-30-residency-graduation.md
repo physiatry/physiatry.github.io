@@ -2,7 +2,7 @@
 layout: post
 title: Physical Medicine and Rehabilitation Residency
 description: >
-  Dr. Shoval Completed a Residency in Pediatric Rehabilitation Medicine
+  Dr. Shoval Completed a Residency in Physical Medicine and Rehabilitation Medicine
 sitemap: false
 image:
   path: /assets/img/certifications/diploma-residency-all.png
