@@ -59,6 +59,8 @@ menu:
     url:               /news/
   - title:             What People Say
     url:               /quotes/
+  - title:             Research Group
+    url:               /mentoring/
   - title:             Résumé
     url:               /assets/resume.pdf
 #  - title:              Hospital Website
