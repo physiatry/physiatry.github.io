@@ -76,6 +76,8 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 
 ### Therapists
 
+> I just wanted to touch base as I saw X the first time since receiving his botox injections. I am so impressed with his range and alignment. His gait training is improving drastically with the rifton walker with the decrease in tone and spasticity.
+
 > I was super impressed with X when I saw her last week. Improved sitting balance on 6" box, her hands and arms are more relaxed and she holds her weight through her arms better in quadruped, i can guide her through quadruped to squat to stand opening the hips up into abduction and external rotation....less scissoring and flatter feet in standing. Does not seem to be sore in the legs (and as might be expected no skin reaction at injection sites). Really nice. Thanks!
 
 > Thanks for getting back in touch with me Aura. :-)  Really, you are quite a few bars higher than most physicians with regards to keeping  correspondence. It is most appreciated by me, and I think more importantly by the families, who have such high praises for you! 
