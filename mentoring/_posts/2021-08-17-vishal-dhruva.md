@@ -2,7 +2,7 @@
 layout: post
 title: Vishal Dhruva
 description: >
-  A medical student at Rutgers New Jersey Medical Student
+  A medical student at Rutgers New Jersey Medical School
 sitemap: false
 ---
 

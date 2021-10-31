@@ -2,7 +2,7 @@
 layout: post
 title: Mayuri Reddy
 description: >
-  A medical student at New Jersey Medical Student
+  A medical student at New Jersey Medical School
 sitemap: false
 image:
   path: /assets/img/mentoring/mayuri_reddy.png
