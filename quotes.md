@@ -10,6 +10,14 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 {:toc .large-only}
 
 ## What patients say about Dr. Shoval
+> Dr. Shoval is extremely knowledgeable and patient and friendly! All things anyone could ask for in a pediatric physician. I
+knew I had come to the right Dr.
+
+> My son has complex special needs and she spent over an hour evaluating him and ensuring he has all the necessary
+information and equipment for his development.
+
+> I have already recommended her to everyone
+
 > Thank you  😊🙏🏼  You’re such a blessing. I hope you have a wonderful night and we’ll see you soon for Botox. 
 
 > Thank you for taking such good care of my daughter. She just got up! In getting her dressed I immediately saw relief in her 
