@@ -68,6 +68,11 @@ information and equipment for his development.
 
 > was amazing the dr. shoval speak spanish was easy to understand everything...
 
+> I just want to let you know that X is doing great and the drooling has diminished by 80%.
+  Like you said, she still drools only when mouthing or when very focus on something looking down. 
+  We’ll keep you posted if we see regression but so far so good.
+  As always, very appreciated for everything you do for X
+  
 ## Featured in a College Application personal essay
 > [..]
   After over a year of living in constant pain, I met a physiatrist, Dr. Shoval, who changed my life. She immediately diagnosed what was causing my pain. She took me off all my medications and started me on a very specialized physical therapy regime. Slowly, I got better. I am now able to do everything I did before my knee injury- ski, swim, hike, and most importantly, live my life without constant pain. I know that I was not able to perform as well as I could have academically in my first two years of high school, had this not happened to me. However, I truly feel that this happened for me versus to me because I now know the real value of my health over all else.
