@@ -5,25 +5,15 @@ sitemap: false
 cover: true
 ---
 
-I am a pediatric rehabilitation medicine physician (Physiatry / PM&R). I currently work at Children's Specialized Hospital at these locations:
+I am a pediatric rehabilitation medicine physician (Physiatry / PM&R).
 
-# Practice Locations
-- [Clifton - Outpatient Center](https://www.childrens-specialized.org/locations-directory/clifton): 
-  [1135 Broad Street, Suite #2, 3rd floor](https://maps.google.com/?q=1135+Broad+Street,+Suite+%232,+3rd+floor&entry=gmail&source=g)
-  Clifton, NJ 07013
+Starting in April, I will be assuming a new role as Chief of Pediatric Physiatry for the [Atlantic Health System](https://www.atlantichealth.org/).
 
-- [Jersey City - Outpatient Center](https://www.childrens-specialized.org/locations-directory/jersey-city-outpatient): 
-  [1825 John F Kennedy Boulevard](https://goo.gl/maps/mPgZXFsocU3TgUba7)
-  Jersey City, NJ 07305
- 
-- [Newark - Outpatient Center](https://www.childrens-specialized.org/locations-directory/newark): 
-  [182 Lyons Ave](https://goo.gl/maps/gh71cTG6A9G6t9Xc8)
-  Newark, NJ 07112
+I will be seeing patients at the [Goryeb Children's Hospital](https://www.atlantichealth.org/locations/hospitals/goryeb-childrens-hospital.html), which is co-located with 
+[Morristown Medical Center](https://www.google.com/maps/dir//morristown+medical+center/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c3a69b3e3b5bdf:0x5edce84ac07d4a42?sa=X&ved=2ahUKEwiPyuG0g7X1AhVSjokEHcVeDZcQ9Rd6BAgzEAU).
 
-# Appointments
-Appointments can be scheduled at:
-- Phone: (973) 365-3071 
-- Fax: (973) 365-3086
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3020.735760952202!2d-74.4667287489762!3d40.78982297922201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3a69b9756fc53%3A0x76e0e806b796dfac!2sGoryeb%20Children&#39;s%20Hospital!5e0!3m2!1sen!2sus!4v1642293492692!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 
 My [resume](/assets/Resume.pdf) is available [here](/assets/Resume.pdf)
 
