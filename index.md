@@ -2,7 +2,7 @@
 layout: page
 title: Dr. (Hannah) Aura Shoval
 sitemap: false
-cover: true
+cover: false
 ---
 
 I am a pediatric rehabilitation medicine physician (Physiatry / PM&R).
