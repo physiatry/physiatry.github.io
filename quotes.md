@@ -10,6 +10,9 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 {:toc .large-only}
 
 ## What patients say about Dr. Shoval
+> HAPPY WOMEN PHYSICIANS DAY!!!  
+> We love you ! Thank you for doing such life changing things for X.
+
 > Dr. Shoval is extremely knowledgeable and patient and friendly! All things anyone could ask for in a pediatric physician. I
 knew I had come to the right Dr.
 
