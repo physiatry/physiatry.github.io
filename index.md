@@ -17,7 +17,7 @@ Starting in April, I will be assuming a new role as Chief of Pediatric Physiatry
 I will be seeing patients at the [Goryeb Children's Hospital](https://www.atlantichealth.org/locations/hospitals/goryeb-childrens-hospital.html), which is co-located with 
 [Morristown Medical Center](https://www.google.com/maps/dir//morristown+medical+center/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c3a69b3e3b5bdf:0x5edce84ac07d4a42?sa=X&ved=2ahUKEwiPyuG0g7X1AhVSjokEHcVeDZcQ9Rd6BAgzEAU).
 
-Call [973-971-6505](tel:9739716505) to schedule an appointment!
+[![phone](/assets/img/phone-icon.png){:class="img-responsive"}](tel:9739716505) Call **[973-971-6505](tel:9739716505)** to schedule an appointment!
 
 </div>
   <div class="col" markdown="1">
@@ -28,9 +28,10 @@ A partir de abril, asumiré un nuevo rol como Jefe de Fisiatría Pediátrica del
 
 Veré pacientes en el [Hospital Infantil Goryeb](https://www.atlantichealth.org/locations/hospitals/goryeb-childrens-hospital.html)/ [Centro Médico Morristown](https://www.google.com/maps/dir//morristown+medical+center/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c3a69b3e3b5bdf:0x5edce84ac07d4a42?sa=X&ved=2ahUKEwiPyuG0g7X1AhVSjokEHcVeDZcQ9Rd6BAgzEAU).
 
-¡Llame al [973-971-6505](tel:9739716505) para programar una cita!
+[![phone](/assets/img/phone-icon.png){:class="img-responsive"}](tel:9739716505) ¡Llame al **[973-971-6505](tel:9739716505)** para programar una cita!
 
-  </div>
+
+</div>
 </div>
 </div>
 
