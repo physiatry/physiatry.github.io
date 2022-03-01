@@ -10,6 +10,8 @@ cover: false
 
   <div class="col" markdown="1">
 
+[![phone](/assets/img/phone-icon.png){:class="img-responsive"}](tel:9739716505) Call **[973-971-6505](tel:9739716505)** to schedule an appointment!
+
 I am a pediatric rehabilitation medicine physician (Physiatry / PM&R).
 
 Starting in April, I will be assuming a new role as Chief of Pediatric Physiatry for the [Atlantic Health System](https://www.atlantichealth.org/).
@@ -17,18 +19,16 @@ Starting in April, I will be assuming a new role as Chief of Pediatric Physiatry
 I will be seeing patients at the [Goryeb Children's Hospital](https://www.atlantichealth.org/locations/hospitals/goryeb-childrens-hospital.html), which is co-located with 
 [Morristown Medical Center](https://www.google.com/maps/dir//morristown+medical+center/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c3a69b3e3b5bdf:0x5edce84ac07d4a42?sa=X&ved=2ahUKEwiPyuG0g7X1AhVSjokEHcVeDZcQ9Rd6BAgzEAU).
 
-[![phone](/assets/img/phone-icon.png){:class="img-responsive"}](tel:9739716505) Call **[973-971-6505](tel:9739716505)** to schedule an appointment!
-
 </div>
   <div class="col" markdown="1">
   
+[![phone](/assets/img/phone-icon.png){:class="img-responsive"}](tel:9739716505) ¡Llame al **[973-971-6505](tel:9739716505)** para programar una cita!
+
   Soy médico de rehabilitación pediátrica (Fisiatría / PM&R).
 
 A partir de abril, asumiré un nuevo rol como Jefe de Fisiatría Pediátrica del Atlantic Health System.
 
 Veré pacientes en el [Hospital Infantil Goryeb](https://www.atlantichealth.org/locations/hospitals/goryeb-childrens-hospital.html)/ [Centro Médico Morristown](https://www.google.com/maps/dir//morristown+medical+center/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c3a69b3e3b5bdf:0x5edce84ac07d4a42?sa=X&ved=2ahUKEwiPyuG0g7X1AhVSjokEHcVeDZcQ9Rd6BAgzEAU).
-
-[![phone](/assets/img/phone-icon.png){:class="img-responsive"}](tel:9739716505) ¡Llame al **[973-971-6505](tel:9739716505)** para programar una cita!
 
 
 </div>
