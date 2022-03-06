@@ -10,6 +10,22 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 {:toc .large-only}
 
 ## What patients say about Dr. Shoval
+
+> Thank you Dr. Shoval for all the guidance you have given to me and X today. Extremely grateful.
+
+> Great...thanks a million again. You made my nephew's day today and most importantly gave him hope
+
+> Your help in this dire situation is invaluable and we can't thank you enough…Thanks again for all your help
+
+> I am able to pick him up much more easily, he seems much more
+  relaxed….He feels more relaxed. He likes that his arrm are more
+  steady especially at night and while sitting in his wheelchair.He
+  like his legs don’t more while in the recliner chair… He us drooling
+  but it seems to bubble up near his lips. He feels less water build
+  in his mouth. He mouth is not dry…
+
+> I see a big difference in X while under your care...
+
 > HAPPY WOMEN PHYSICIANS DAY!!!  
 > We love you ! Thank you for doing such life changing things for X.
 
