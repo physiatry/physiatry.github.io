@@ -12,11 +12,11 @@ cover: false
 
 [![phone](/assets/img/phone-icon.png){:class="img-responsive"}](tel:9739716505) Call **[973-971-6505](tel:9739716505)** to schedule an appointment!
 
-I am a pediatric rehabilitation medicine physician (Physiatry / PM&R).
+I am Chief of Pediatric Physiatry (pediatric rehabilitation medicine /
+PM&R) for the [Atlantic Health
+System](https://www.atlantichealth.org/).
 
-Starting in April, I will be assuming a new role as Chief of Pediatric Physiatry for the [Atlantic Health System](https://www.atlantichealth.org/).
-
-I will be seeing patients at the [Goryeb Children's Hospital](https://www.atlantichealth.org/locations/hospitals/goryeb-childrens-hospital.html), which is co-located with 
+I see patients at [Goryeb Children's Hospital](https://www.atlantichealth.org/locations/hospitals/goryeb-childrens-hospital.html), which is co-located with 
 [Morristown Medical Center](https://www.google.com/maps/dir//morristown+medical+center/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c3a69b3e3b5bdf:0x5edce84ac07d4a42?sa=X&ved=2ahUKEwiPyuG0g7X1AhVSjokEHcVeDZcQ9Rd6BAgzEAU).
 
 </div>
@@ -24,9 +24,7 @@ I will be seeing patients at the [Goryeb Children's Hospital](https://www.atlant
   
 [![phone](/assets/img/phone-icon.png){:class="img-responsive"}](tel:9739716505) ¡Llame al **[973-971-6505](tel:9739716505)** para programar una cita!
 
-  Soy médico de rehabilitación pediátrica (Fisiatría / PM&R).
-
-A partir de abril, asumiré un nuevo rol como Jefe de Fisiatría Pediátrica del Atlantic Health System.
+Soy Jefe de Fisiatría Pediátrica del [Atlantic Health System](https://www.atlantichealth.org/).
 
 Veré pacientes en el [Hospital Infantil Goryeb](https://www.atlantichealth.org/locations/hospitals/goryeb-childrens-hospital.html)/ [Centro Médico Morristown](https://www.google.com/maps/dir//morristown+medical+center/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c3a69b3e3b5bdf:0x5edce84ac07d4a42?sa=X&ved=2ahUKEwiPyuG0g7X1AhVSjokEHcVeDZcQ9Rd6BAgzEAU).
 
@@ -42,4 +40,4 @@ My [resume](/assets/Resume.pdf) is available [here](/assets/Resume.pdf)
 
 # Brief Bio
 
-Dr. (Hannah) Aura Shoval is a board certified Pediatric Rehabilitation physician at Children’s Specialized Hospital. She completed her medical studies at Tufts University. She did her residency in physical medicine and rehabilitation at New York Presbyterian Hospital where she served as chief resident. She then completed a fellowship in pediatric rehabilitation at Columbia Medical Center/Blythedale Children’s Hospital’s combined program. Dr. Shoval has done research in botox and alcohol injections for spasticity management, drooling, autism,  sleep medicine and cardiopulmonary effects of exercise. She has lectured nationally and internationally on these topics.  Her clinical interests include spasticity management, drooling, gait abnormalities, sports medicine, musculoskeletal ultrasound, and dance/performing arts medicine. In her spare time, she enjoys doing gymnastics with her three children, and competing with her husband in ballroom dance competitions.
+Dr. (Hannah) Aura Shoval is Chief of Pediátric Physiatry at Atlantic Health System. A board certified physiatry in pediatric rehabilitation, she completed her medical studies at Tufts University. She did her residency in physical medicine and rehabilitation at New York Presbyterian Hospital where she served as chief resident. She then completed a fellowship in pediatric rehabilitation at Columbia Medical Center/Blythedale Children’s Hospital’s combined program, and worked at Children's Specialized Hospital as an attending physician.  Dr. Shoval has done research in botox and alcohol injections for spasticity management, drooling, autism,  sleep medicine and cardiopulmonary effects of exercise. She has lectured nationally and internationally on these topics.  Her clinical interests include spasticity management, drooling, gait abnormalities, sports medicine, musculoskeletal ultrasound, and dance/performing arts medicine. In her spare time, she enjoys doing gymnastics with her three children, and competing with her husband in ballroom dance competitions.
