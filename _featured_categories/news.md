@@ -10,7 +10,7 @@ slug: news
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Articles about Dr. Shoval and program's she has been involved in
+  Articles about Dr. Shoval and programs she has been involved in.
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true
