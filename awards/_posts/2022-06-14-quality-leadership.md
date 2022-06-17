@@ -8,8 +8,7 @@ image:
   path: /assets/img/awards/quality_leadership_award_presentation.png
 ---
 
-Dr. [Dr. Steven
-Kirshblum](https://kesslerfoundation.org/about-us/foundation-staff/steven-kirshblum-md)
+[Dr. Steven Kirshblum](https://kesslerfoundation.org/about-us/foundation-staff/steven-kirshblum-md)
 presented Dr. Shoval with the Faculty Quality Leadership Award, given
 in recognition of her work mentoring residents in quality improvement.
 
