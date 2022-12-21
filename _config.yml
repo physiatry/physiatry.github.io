@@ -251,6 +251,8 @@ hydejack:
   # This only affects the meta tag, not the color specified in the app manifest.
   no_theme_color:      false
 
+  no_breadcrumbs:      false
+
   # Set to `true` when building with the `--lsi` option
   use_lsi:             true
 
@@ -275,6 +277,8 @@ hydejack:
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
     dynamic:           true
 
+    sunrise:           6
+    sunset:            18
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
 
