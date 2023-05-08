@@ -2,7 +2,7 @@
 layout: page
 title: Dr. (Hannah) Aura Shoval
 sitemap: false
-cover: false
+cover: true
 ---
 
 <div class="container" markdown="1">
