@@ -61,8 +61,8 @@ menu:
     url:               /quotes/
   - title:             Research Group
     url:               /mentoring/
-  - title:             Résumé
-    url:               /assets/resume.pdf
+  - title:             CV
+    url:               /assets/cv.pdf
 #  - title:              Hospital Website
 #    url:                https://www.rwjbh.org/doctors/hannah-a-shoval-md/
 
