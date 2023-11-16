@@ -11,6 +11,10 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 
 ## What patients say about Dr. Shoval
 
+> He (the patient) hates going to the doctor. But he really likes you
+  guys and says, "Mom, they're so nice to me!" I'm really grateful for
+  you all for being his provider. I just want to say thank you.
+
 > Thank you Dr. Shoval for all the guidance you have given to me and X today. Extremely grateful.
 
 > Great...thanks a million again. You made my nephew's day today and most importantly gave him hope
