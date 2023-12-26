@@ -5,6 +5,18 @@ sitemap: false
 cover: true
 ---
 
+# Brief Bio
+
+Dr. (Hannah) Aura Shoval is the chief of pediatric rehabilitation medicine at Atlantic Health System, and a clinical associate professor at Rutgers/ New Jersey Medical School. She is triple board certified in physiatry, pediatric rehabilitation medicine, and traumatic brain injury. She did her residency in physical medicine and rehabilitation at New York- Presbyterian Hospital where she served as chief resident. She then completed a fellowship in pediatric rehabilitation at Columbia Medical Center/Blythedale Children’s Hospital’s combined program. 
+
+Dr. Shoval has done research in a number of areas including barriers to medical care, spasticity management, autism, sleep medicine and cardiopulmonary effects of exercise. She has lectured nationally and internationally on these topics. She currently serves on the national research committee of the American Academy of Cerebral Palsy and Developmental Medicine. 
+
+Clinically, she specializes in cerebral palsy, spasticity management, and walking difficulties. She is the medical director of several multi-disciplinary clinics where she leads a dedicated team that includes a nurse coordinator, social worker and nutritionist to help address the social determinants of health. 
+
+Her volunteer work centers around food insecurities, poverty, and health equity, and she is currently the health equity medical advisor for Rutgers Institute of Corporate Social Innovation. In her spare time, she enjoys doing gymnastics with her three children, and competing with her husband in ballroom dance competitions.
+
+Dr. Shoval's [CV](/assets/cv.pdf) is available [here](/assets/cv.pdf)
+
 <div class="container" markdown="1">
 <div class="row" markdown="1">
 
@@ -35,9 +47,4 @@ Veré pacientes en el [Hospital Infantil Goryeb](https://www.atlantichealth.org/
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3020.8321397408095!2d-74.47005204920306!3d40.7877043408164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3a69c7ae7aa01%3A0x8d8a3f1d105cd1bf!2s55%20Madison%20Ave%2C%20Morristown%2C%20NJ%2007960!5e0!3m2!1sen!2sus!4v1646257554372!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-My [CV](/assets/cv.pdf) is available [here](/assets/cv.pdf)
 
-
-# Brief Bio
-
-Dr. (Hannah) Aura Shoval is Chief of Pediátric Physiatry at Atlantic Health System. A board certified physiatry in pediatric rehabilitation, she completed her medical studies at Tufts University. She did her residency in physical medicine and rehabilitation at New York Presbyterian Hospital where she served as chief resident. She then completed a fellowship in pediatric rehabilitation at Columbia Medical Center/Blythedale Children’s Hospital’s combined program, and worked at Children's Specialized Hospital as an attending physician.  Dr. Shoval has done research in botox and alcohol injections for spasticity management, drooling, autism,  sleep medicine and cardiopulmonary effects of exercise. She has lectured nationally and internationally on these topics.  Her clinical interests include spasticity management, drooling, gait abnormalities, sports medicine, musculoskeletal ultrasound, and dance/performing arts medicine. In her spare time, she enjoys doing gymnastics with her three children, and competing with her husband in ballroom dance competitions.
