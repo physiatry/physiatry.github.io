@@ -11,6 +11,10 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 
 ## What patients say about Dr. Shoval
 
+> Dr.Shoval is the best doctore for my son.
+
+> Dr Shovel explained the procedure, expected benefits, and possible side effects fully to me
+
 > He (the patient) hates going to the doctor. But he really likes you
   guys and says, "Mom, they're so nice to me!" I'm really grateful for
   you all for being his provider. I just want to say thank you.
