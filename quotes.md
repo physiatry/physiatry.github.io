@@ -11,6 +11,14 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 
 ## What patients say about Dr. Shoval
 
+> Great visit. Provider is nice and knowledgeable. Wait time was under 10 minutes which is very important for a child with anxiety.
+
+> Excellent experience. Professional staff and the dr really took time to listen to my son and provide proper diagnosis and treatment in a way he and I can understand.
+
+> Muy buena - Very good
+
+> muito bem recebidos desde o início - Was very well received from the start
+
 > Dr.Shoval is the best doctore for my son.
 
 > Dr Shovel explained the procedure, expected benefits, and possible side effects fully to me
