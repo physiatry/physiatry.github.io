@@ -11,6 +11,11 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 
 ## What patients say about Dr. Shoval
 
+> Dr. Shoval is an amazing doctor and listens to everything I have to
+  say.  When I had a concern, she immediately looked at what I was
+  talking about and answered me without seeming bothered or
+  inconvenienced.
+
 > Great visit. Provider is nice and knowledgeable. Wait time was under 10 minutes which is very important for a child with anxiety.
 
 > Excellent experience. Professional staff and the dr really took time to listen to my son and provide proper diagnosis and treatment in a way he and I can understand.
