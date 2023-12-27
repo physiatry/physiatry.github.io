@@ -10,7 +10,7 @@ slug: mentoring
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Students that Dr. Shoval has mentored
+  Students that Dr. Shoval has mentored, and presentations they have given
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true
