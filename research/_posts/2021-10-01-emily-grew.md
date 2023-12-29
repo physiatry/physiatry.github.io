@@ -5,7 +5,7 @@ description: >
   A medical student at Rutgers New Jersey Medical School
 sitemap: false
 image:
-  path: /assets/img/mentoring/emily_grew.png
+  path: /assets/img/research/emily_grew.png
 ---
 
 Emily is currently a second-year medical student at Rutgers NJMS,

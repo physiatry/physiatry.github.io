@@ -6,11 +6,11 @@ layout: grid
 title: Pediatric Rehabilition Research Group
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: mentoring
+slug: research
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Students that Dr. Shoval has mentored, and presentations they have given
+  Students that Dr. Shoval has mentored, and presentations she and they have given
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true

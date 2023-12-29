@@ -5,7 +5,7 @@ description: >
   A medical student at Rutgers New Jersey Medical School
 sitemap: false
 image:
-  path: /assets/img/mentoring/vishal_dhruva.png
+  path: /assets/img/research/vishal_dhruva.png
 ---
 
 Hey everyone! I’m currently a third year medical student at Rutgers

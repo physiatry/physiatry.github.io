@@ -5,7 +5,7 @@ description: >
   A PM&R resident at JFK-Johnson Rehabilitation Institute
 sitemap: false
 image:
-  path: /assets/img/mentoring/jessica_ace.png
+  path: /assets/img/research/jessica_ace.png
 ---
 
 Jessica Ace is a third year physical medicine and rehabilitation

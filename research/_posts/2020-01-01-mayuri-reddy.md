@@ -5,7 +5,7 @@ description: >
   A medical student at New Jersey Medical School
 sitemap: false
 image:
-  path: /assets/img/mentoring/mayuri_reddy.png
+  path: /assets/img/research/mayuri_reddy.png
 ---
 
 Mayuri attended The College of New Jersey and is currently a first
