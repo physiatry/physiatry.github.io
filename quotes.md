@@ -3,7 +3,9 @@ layout: page
 sitemap: false
 ---
 
-A collection of actual quotes from patients and colleagues of Dr. Shoval.  
+Dr. Shoval has a 5 star (5/5) rating from more than 15 patients.
+
+Here is a collection of actual quotes from patients and colleagues of Dr. Shoval.  
 These have been reproduced verbatim, except for occasional (indicated) redactions for confidentiality.
 
 * TOC here
