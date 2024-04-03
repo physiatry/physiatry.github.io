@@ -19,7 +19,7 @@ Innovation](https://ricsi.business.rutgers.edu/), links to the article
 on [LinkedIn](https://www.linkedin.com/posts/rutgers-institute-for-corporate-social-innovation_physician-is-earning-an-mba-to-broaden-her-activity-7172984004592259072-qdXg) and as a [Media
 Mention](https://ricsi.business.rutgers.edu/health-equity/media-mentions).
 
-![LinkedIn post](/assets/img/news/rutgersmba24_linkedin.jpg)](https://www.linkedin.com/posts/jeana-wirtenberg-104732_physician-is-earning-an-mba-to-broaden-her-activity-7172985033807368192-Qz2p)
+[![LinkedIn post](/assets/img/news/rutgersmba24_linkedin.jpg)](https://www.linkedin.com/posts/jeana-wirtenberg-104732_physician-is-earning-an-mba-to-broaden-her-activity-7172985033807368192-Qz2p)
 
 
 A pdf version of the article is available here: [![PDF version](/assets/img/news/rutgersmba24_article.png)](/assets/img/news/rutgersmba24_article.pdf)
