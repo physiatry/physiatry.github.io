@@ -7,17 +7,52 @@ cover: true
 
 # Brief Bio
 
-Dr. (Hannah) Aura Shoval is the chief of pediatric rehabilitation medicine at Atlantic Health System and a clinical associate professor at Rutgers/ New Jersey Medical School. She is a transformational leader with a proven track record of leading strategic, innovative initiatives to address barriers to high-quality healthcare, including poverty, racial discrimination, language spoken, and immigrant status.
+Dr. (Hannah) Aura Shoval is the chief of pediatric rehabilitation
+medicine at Atlantic Health System, and a board member of the Atlantic
+Accountable Care Organization. She is a clinical associate professor
+at Rutgers/ New Jersey Medical School. She is currently obtaining her
+MBA from Rutgers, with concentrations in both finance and strategy.
 
-She is triple board certified in physiatry, pediatric rehabilitation medicine, and traumatic brain injury. She did her residency in physical medicine and rehabilitation at New York- Presbyterian Hospital, where she served as chief resident. She then completed a fellowship in pediatric rehabilitation at Columbia Medical Center/Blythedale Children’s Hospital’s combined program.
+Dr. Shoval is a transformational leader with a proven track record of
+leading cross-functional teams and creating innovative solutions by
+utilizing clinical informatics to create data-driven, financially
+informed strategies. Dr. Shoval is known for inspiring others with a
+clear vision, fostering inclusive cultures of purpose, and leveraging
+emerging technologies to craft innovative and impactful solutions. She
+is currently seeking further certification in clinical informatics.
 
-Dr. Shoval has done research in many areas, including barriers to medical care, spasticity management, autism, sleep medicine, and cardiopulmonary effects of exercise. She has lectured nationally and internationally on these topics. She currently serves on the national research committee of the American Academy of Cerebral Palsy and Developmental Medicine.
+Academically, Dr. Shoval has published book chapters and online
+medical resources, includingMedlink, 12 peer-reviewed manuscripts, and
+30 abstracts on her research. Her research was cited as one of the top
+10 research articles in her field in 2019, and she has been invited to
+lecture nationally and internationally on her work. She serves on the
+national research committee of the American Academy of Cerebral Palsy
+and Developmental Medicine (AACPDM), helping to review grant
+applications and promote research quality.
 
-Clinically, she specializes in cerebral palsy, spasticity management, and walking difficulties. She is the medical director of several multi-disciplinary clinics. She leads a dedicated team that includes a nurse coordinator, social worker, and nutritionist to help address the social determinants of health.
+Clinically, she specializes in cerebral palsy, spasticity management,
+and walking difficulties. She is the medical director of several
+multidisciplinary clinics, where she leads a dedicated team of
+physicians, nurses, therapists, and other support team members.
 
-Her volunteer work addresses food insecurities, poverty, and health equity. To this end, she is in the process of obtaining her MBA at Rutgers Business School where she is currently the health equity medical advisor for Rutgers Institute of Corporate Social Innovation.
+Her volunteer work addresses food insecurities, poverty, and health
+equity. She is the health equity medical advisor for Rutgers Institute
+of Corporate Social Innovation and is currently working on the “REACH”
+initiative that was granted $225K to help improve food security,
+nutrition, and maternal health in Newark, NJ.
 
-In her spare time, she enjoys doing gymnastics with her three children and competing with her husband in ballroom dance competitions.
+In her spare time, she enjoys doing gymnastics with her children and
+competing in ballroom dance competitions.
+
+**Board Certifications**: She is triple board certified in Physical
+Medicine & Rehabilitation, Pediatric Rehabilitation Medicine, and
+Traumatic Brain Injury.
+
+**Residency**: Physical Medicine & Rehabilitation at New York-
+Presbyterian Hospital, where she served as chief resident.
+
+**Fellowship**: Pediatric rehabilitation at Columbia Medical
+Center/Blythedale Children’s Hospital
 
 Dr. Shoval's [CV](/assets/cv.pdf) is available [here](/assets/cv.pdf)
 
