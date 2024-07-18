@@ -16,6 +16,20 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
   talking about and answered me without seeming bothered or
   inconvenienced.
 
+> We met Dr. Shoval for an assessment of our 6-month-old baby, who was
+  born prematurely. Dr. Shoval, a pediatric specialist with expertise
+  in cerebral palsy and special needs, was exceptionally thorough and
+  compassionate. From the moment we walked into her office, her
+  empathy and genuine concern for our child's well-being were
+  evident. She spent over an hour with us, getting our inputs on the
+  baby’s progress, physically assessing him and taking time to talk
+  through our concerns. Dr. Shoval’s depth of knowledge and excellent
+  bedside manner provided us with much-needed reassurance. We left her
+  office feeling confident about the next steps for our child's
+  development. If you are seeking a specialist who combines
+  professional excellence with heartfelt compassion, Dr. Shoval is an
+  outstanding choice.
+
 > Great visit. Provider is nice and knowledgeable. Wait time was under 10 minutes which is very important for a child with anxiety.
 
 > Excellent experience. Professional staff and the dr really took time to listen to my son and provide proper diagnosis and treatment in a way he and I can understand.
