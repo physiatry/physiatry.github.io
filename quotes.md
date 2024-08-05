@@ -11,10 +11,16 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 
 ## What patients say about Dr. Shoval
 
-> Dr. Shoval is an amazing doctor and listens to everything I have to
-  say.  When I had a concern, she immediately looked at what I was
-  talking about and answered me without seeming bothered or
-  inconvenienced.
+> Dr. Shoval is incredible! One of the kindest and most friendly,
+  amiable, personable providers I have ever met!
+
+> Dr. Shoval is incredible.  We had heard good things about her but
+  she was even more knowledgeable, patient and engaging than we could
+  have hoped.  Kiddo is autistic and Dr Shoval was amazing with
+  her. The entire office staff and nurse were wonderful
+
+> It is always a pleasure to visist Dr. Shoval she is so well known
+  respectfully and care so much about her patients.
 
 > We met Dr. Shoval for an assessment of our 6-month-old baby, who was
   born prematurely. Dr. Shoval, a pediatric specialist with expertise
@@ -29,6 +35,12 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
   development. If you are seeking a specialist who combines
   professional excellence with heartfelt compassion, Dr. Shoval is an
   outstanding choice.
+
+
+> Dr. Shoval is an amazing doctor and listens to everything I have to
+  say.  When I had a concern, she immediately looked at what I was
+  talking about and answered me without seeming bothered or
+  inconvenienced.
 
 > Great visit. Provider is nice and knowledgeable. Wait time was under 10 minutes which is very important for a child with anxiety.
 
