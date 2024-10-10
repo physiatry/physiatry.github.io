@@ -11,6 +11,17 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 
 ## What patients say about Dr. Shoval
 
+> Always my daughter and well treated and us as a companion too, the
+  service is excellent without Mentioning the wonderful doctor kind
+  and extremely professional and a_ectionate with our
+  children... Thank you very much to the whole team.
+
+> Excellent service, show care about my well-being, very informative and feel no rush. Amazing team!
+
+> I can't never have a bad experience they are an amazing team I love my visit with my son.
+
+> They treat my daughter as a queen
+
 > Dr. Shoval is incredible! One of the kindest and most friendly,
   amiable, personable providers I have ever met!
 
