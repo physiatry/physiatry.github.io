@@ -8,10 +8,10 @@ image:
   path: /assets/img/news/impact-report-2024-shoval.png
 ---
 
-The [Rutgers Business School Impact Report](https://www.business.rutgers.edu/impact-report) highlighted Dr. Shoval as an examplar of Student Success in their [Fall 2024 edition](/assets/img/news/impact-report-2024-fall-spreads.pdf\#page=14).
+The [Rutgers Business School Impact Report](https://www.business.rutgers.edu/impact-report) highlighted Dr. Shoval as an examplar of Student Success in their [Fall 2024 edition](/assets/img/news/impact-report-2024-fall-spreads.pdf#page=14).
 
 
-[![Page 14](/assets/img/news/impact-report-2024-page.jpg)](/assets/img/news/impact-report-2024-fall-spreads.pdf\#page=14)
+[![Page 14](/assets/img/news/impact-report-2024-page.jpg)](/assets/img/news/impact-report-2024-fall-spreads.pdf#page=14)
 
 This article mentions Dr. Shoval's volunteer role as the Health Equity
 Medical Advisor at the [Rutgers Institute for Corporate Social
