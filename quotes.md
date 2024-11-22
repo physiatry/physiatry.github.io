@@ -164,7 +164,9 @@ information and equipment for his development.
 > Thank you again for taking the time out of your schedule to lecture on Wednesday!  The the lecture interactive and engaging. 
   I know this is not easy to do, especially on a teleconferencing platform. In addition to the content, you brought so much energy to the presentation. Please let me know if there are any other topics you are interested in lecturing on in the future. I will make a note of it.
 
-### Therapists
+### Therapists and Support Staff
+
+> Hi- just a quick note to say THANK YOU for what you've done for this boy! I've known them for almost 11 years and they told me all about your care and kindness... I couldn't agree more. YOU ARE AN ABSOLUTE BREATH OF FRESH AIR for the patients and all of us that have the blessing of working with you. X is very excited about his wish coming true ❤
 
 > I just wanted to touch base as I saw X the first time since receiving his botox injections. I am so impressed with his range and alignment. His gait training is improving drastically with the rifton walker with the decrease in tone and spasticity.
 
