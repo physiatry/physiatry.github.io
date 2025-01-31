@@ -44,9 +44,9 @@ nutrition, and maternal health in Newark, NJ.
 In her spare time, she enjoys doing gymnastics with her children and
 competing in ballroom dance competitions.
 
-**Board Certifications**: She is triple board certified in Physical
-Medicine & Rehabilitation, Pediatric Rehabilitation Medicine, and
-Traumatic Brain Injury.
+**Board Certifications**: She is quadruple board certified in Physical
+Medicine & Rehabilitation, Pediatric Rehabilitation Medicine, 
+Traumatic Brain Injury, and Clinical Informatics.
 
 **Residency**: Physical Medicine & Rehabilitation at New York-
 Presbyterian Hospital, where she served as chief resident.
