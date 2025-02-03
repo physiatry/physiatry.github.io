@@ -11,6 +11,15 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 
 ## What patients say about Dr. Shoval
 
+> Dr. Shoval always provides the best care possible. If all doctors
+  cared like her and coordinated care as she does the world would be
+  in a breed place. She is knowledgeable, compassionate, and
+  diligent. She thinks outside the box and will not stop until she
+  figures out a problem. My daughter is starting to take steps at
+  almost 8 because of Dr. Shoval' scare and persistence. She is the
+  best doctor ever. I wish there were doctors like her in all the
+  specialty areas we see.
+
 > Always my daughter and well treated and us as a companion too, the
   service is excellent without Mentioning the wonderful doctor kind
   and extremely professional and a_ectionate with our
