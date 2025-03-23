@@ -18,8 +18,7 @@ leading cross-functional teams and creating innovative solutions by
 utilizing clinical informatics to create data-driven, financially
 informed strategies. Dr. Shoval is known for inspiring others with a
 clear vision, fostering inclusive cultures of purpose, and leveraging
-emerging technologies to craft innovative and impactful solutions. She
-is currently seeking further certification in clinical informatics.
+emerging technologies to craft innovative and impactful solutions.
 
 Academically, Dr. Shoval has published book chapters and online
 medical resources, includingMedlink, 12 peer-reviewed manuscripts, and
