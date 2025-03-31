@@ -175,6 +175,8 @@ information and equipment for his development.
 
 ### Therapists and Support Staff
 
+> Dr Shoval,  I hope you had a lovely Doctors' Day - your caring and compassion come through in your conversation and notes.
+
 > Hi- just a quick note to say THANK YOU for what you've done for this boy! I've known them for almost 11 years and they told me all about your care and kindness... I couldn't agree more. YOU ARE AN ABSOLUTE BREATH OF FRESH AIR for the patients and all of us that have the blessing of working with you. X is very excited about his wish coming true ❤
 
 > I just wanted to touch base as I saw X the first time since receiving his botox injections. I am so impressed with his range and alignment. His gait training is improving drastically with the rifton walker with the decrease in tone and spasticity.
