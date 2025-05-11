@@ -11,6 +11,14 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 
 ## What patients say about Dr. Shoval
 
+> Thank you for helping kids. X is really complex. You
+  are the only doctor who is helping me. It has ben hard. Trust me,
+  I'm repeating my words. But you made him smile. I mean from the last
+  visit until today we have seen a different X he is
+  getting better and better every single day.
+  
+  That's your magic. That's your magic.
+
 > Dr. Shoval always provides the best care possible. If all doctors
   cared like her and coordinated care as she does the world would be
   in a breed place. She is knowledgeable, compassionate, and
