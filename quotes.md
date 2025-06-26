@@ -11,6 +11,10 @@ These have been reproduced verbatim, except for occasional (indicated) redaction
 
 ## What patients say about Dr. Shoval
 
+> I really appreciate all the time and work you guys have put into my
+  daughter. I will forever be grateful.
+
+
 > Thank you for helping kids. X is really complex. You
   are the only doctor who is helping me. It has ben hard. Trust me,
   I'm repeating my words. But you made him smile. I mean from the last
